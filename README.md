@@ -27,6 +27,14 @@ This project allows users to:
 
 ---
 
+## 🌐 Live Demo
+
+Vercel deployment:
+
+[https://cmlabs-frontend-parttime-test-gamma.vercel.app/ingredients](https://cmlabs-frontend-parttime-test-gamma.vercel.app/ingredients)
+
+---
+
 ## 📦 How to Clone the Project
 
 ```bash
