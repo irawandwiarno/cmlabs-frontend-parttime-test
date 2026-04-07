@@ -30,7 +30,7 @@ This project allows users to:
 ## 📦 How to Clone the Project
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/irawandwiarno/cmlabs-frontend-parttime-test.git
 cd cmlabs-frontend-parttime-test
 ```
 
