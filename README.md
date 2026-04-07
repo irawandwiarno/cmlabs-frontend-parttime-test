@@ -34,8 +34,6 @@ git clone https://github.com/irawandwiarno/cmlabs-frontend-parttime-test.git
 cd cmlabs-frontend-parttime-test
 ```
 
-> Replace `<repository-url>` with your actual Git repository URL.
-
 ---
 
 ## ▶️ How to Run the Project
